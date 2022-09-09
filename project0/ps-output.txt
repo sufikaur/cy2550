@@ -1,0 +1,199 @@
+UID          PID    PPID  C STIME TTY          TIME CMD
+root           1       0  0 13:21 ?        00:00:01 /sbin/init splash
+root           2       0  0 13:21 ?        00:00:00 [kthreadd]
+root           3       2  0 13:21 ?        00:00:00 [rcu_gp]
+root           4       2  0 13:21 ?        00:00:00 [rcu_par_gp]
+root           5       2  0 13:21 ?        00:00:00 [netns]
+root           7       2  0 13:21 ?        00:00:00 [kworker/0:0H-events_highpri]
+root           9       2  0 13:21 ?        00:00:00 [kworker/u2:0-events_unbound]
+root          10       2  0 13:21 ?        00:00:00 [mm_percpu_wq]
+root          11       2  0 13:21 ?        00:00:00 [rcu_tasks_rude_]
+root          12       2  0 13:21 ?        00:00:00 [rcu_tasks_trace]
+root          13       2  0 13:21 ?        00:00:00 [ksoftirqd/0]
+root          14       2  0 13:21 ?        00:00:00 [rcu_sched]
+root          15       2  0 13:21 ?        00:00:00 [migration/0]
+root          16       2  0 13:21 ?        00:00:00 [idle_inject/0]
+root          17       2  0 13:21 ?        00:00:00 [cpuhp/0]
+root          18       2  0 13:21 ?        00:00:00 [kdevtmpfs]
+root          19       2  0 13:21 ?        00:00:00 [inet_frag_wq]
+root          20       2  0 13:21 ?        00:00:00 [kauditd]
+root          21       2  0 13:21 ?        00:00:00 [khungtaskd]
+root          22       2  0 13:21 ?        00:00:00 [oom_reaper]
+root          23       2  0 13:21 ?        00:00:00 [writeback]
+root          24       2  0 13:21 ?        00:00:00 [kcompactd0]
+root          25       2  0 13:21 ?        00:00:00 [ksmd]
+root          26       2  0 13:21 ?        00:00:00 [khugepaged]
+root          72       2  0 13:21 ?        00:00:00 [kintegrityd]
+root          73       2  0 13:21 ?        00:00:00 [kblockd]
+root          74       2  0 13:21 ?        00:00:00 [blkcg_punt_bio]
+root          75       2  0 13:21 ?        00:00:00 [tpm_dev_wq]
+root          76       2  0 13:21 ?        00:00:00 [ata_sff]
+root          77       2  0 13:21 ?        00:00:00 [md]
+root          78       2  0 13:21 ?        00:00:00 [edac-poller]
+root          79       2  0 13:21 ?        00:00:00 [devfreq_wq]
+root          80       2  0 13:21 ?        00:00:00 [watchdogd]
+root          82       2  0 13:21 ?        00:00:00 [kworker/0:1H-kblockd]
+root          84       2  0 13:21 ?        00:00:00 [kswapd0]
+root          85       2  0 13:21 ?        00:00:00 [ecryptfs-kthrea]
+root          87       2  0 13:21 ?        00:00:00 [kthrotld]
+root          88       2  0 13:21 ?        00:00:00 [acpi_thermal_pm]
+root          90       2  0 13:21 ?        00:00:00 [scsi_eh_0]
+root          91       2  0 13:21 ?        00:00:00 [scsi_tmf_0]
+root          92       2  0 13:21 ?        00:00:00 [scsi_eh_1]
+root          93       2  0 13:21 ?        00:00:00 [scsi_tmf_1]
+root          95       2  0 13:21 ?        00:00:00 [vfio-irqfd-clea]
+root          97       2  0 13:21 ?        00:00:00 [mld]
+root          98       2  0 13:21 ?        00:00:00 [ipv6_addrconf]
+root         108       2  0 13:21 ?        00:00:00 [kstrp]
+root         111       2  0 13:21 ?        00:00:00 [zswap-shrink]
+root         112       2  0 13:21 ?        00:00:00 [kworker/u3:0]
+root         117       2  0 13:21 ?        00:00:00 [charger_manager]
+root         158       2  0 13:21 ?        00:00:00 [scsi_eh_2]
+root         160       2  0 13:21 ?        00:00:00 [scsi_tmf_2]
+root         181       2  0 13:21 ?        00:00:00 [jbd2/sda5-8]
+root         182       2  0 13:21 ?        00:00:00 [ext4-rsv-conver]
+root         222       1  0 13:21 ?        00:00:00 /lib/systemd/systemd-journald
+root         241       2  0 13:21 ?        00:00:00 [ipmi-msghandler]
+root         244       1  0 13:21 ?        00:00:00 /lib/systemd/systemd-udevd
+root         247       2  0 13:21 ?        00:00:00 [ttm_swap]
+root         248       2  0 13:21 ?        00:00:00 [irq/18-vmwgfx]
+root         249       2  0 13:21 ?        00:00:00 [card0-crtc0]
+root         250       2  0 13:21 ?        00:00:00 [card0-crtc1]
+root         251       2  0 13:21 ?        00:00:00 [card0-crtc2]
+root         252       2  0 13:21 ?        00:00:00 [card0-crtc3]
+root         253       2  0 13:21 ?        00:00:00 [card0-crtc4]
+root         254       2  0 13:21 ?        00:00:00 [card0-crtc5]
+root         255       2  0 13:21 ?        00:00:00 [card0-crtc6]
+root         256       2  0 13:21 ?        00:00:00 [card0-crtc7]
+root         317       2  0 13:21 ?        00:00:00 [cryptd]
+systemd+     492       1  0 13:21 ?        00:00:00 /lib/systemd/systemd-resolved
+systemd+     493       1  0 13:21 ?        00:00:00 /lib/systemd/systemd-timesyncd
+root         528       1  0 13:21 ?        00:00:00 /usr/lib/accountsservice/accounts-daemon
+root         529       1  0 13:21 ?        00:00:00 /usr/sbin/acpid
+avahi        531       1  0 13:21 ?        00:00:00 avahi-daemon: running [skaur-VirtualBox.local]
+root         533       1  0 13:21 ?        00:00:00 /usr/sbin/cron -f
+root         537       1  0 13:21 ?        00:00:00 /usr/sbin/cupsd -l
+message+     538       1  0 13:21 ?        00:00:00 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         539       1  0 13:21 ?        00:00:00 /usr/sbin/NetworkManager --no-daemon
+root         550       1  0 13:21 ?        00:00:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root         556       1  0 13:21 ?        00:00:00 /usr/lib/policykit-1/polkitd --no-debug
+syslog       565       1  0 13:21 ?        00:00:00 /usr/sbin/rsyslogd -n -iNONE
+lp           567     537  0 13:21 ?        00:00:00 /usr/lib/cups/notifier/dbus dbus://
+lp           568     537  0 13:21 ?        00:00:00 /usr/lib/cups/notifier/dbus dbus://
+lp           570     537  0 13:21 ?        00:00:00 /usr/lib/cups/notifier/dbus dbus://
+root         571       1  0 13:21 ?        00:00:03 /usr/lib/snapd/snapd
+root         572       1  0 13:21 ?        00:00:00 /usr/libexec/switcheroo-control
+root         573       1  0 13:21 ?        00:00:00 /lib/systemd/systemd-logind
+root         578       1  0 13:21 ?        00:00:00 /usr/lib/udisks2/udisksd
+root         584       1  0 13:21 ?        00:00:00 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+avahi        606     531  0 13:21 ?        00:00:00 avahi-daemon: chroot helper
+root         617       1  0 13:21 ?        00:00:00 /usr/sbin/ModemManager
+root         625       1  0 13:21 ?        00:00:00 /usr/sbin/cups-browsed
+root         661       1  0 13:21 ?        00:00:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+whoopsie     677       1  0 13:21 ?        00:00:00 /usr/bin/whoopsie -f
+kernoops     679       1  0 13:21 ?        00:00:00 /usr/sbin/kerneloops --test
+kernoops     686       1  0 13:21 ?        00:00:00 /usr/sbin/kerneloops
+root         906       1  0 13:21 ?        00:00:00 /usr/sbin/gdm3
+root         915       1  0 13:21 ?        00:00:00 /usr/sbin/VBoxService --pidfile /var/run/vboxadd-service.sh
+root         924     906  0 13:21 ?        00:00:00 gdm-session-worker [pam/gdm-autologin]
+skaur        929       1  0 13:21 ?        00:00:00 /lib/systemd/systemd --user
+skaur        930     929  0 13:21 ?        00:00:00 (sd-pam)
+skaur        935     929  0 13:21 ?        00:00:00 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+skaur        938     929  0 13:21 ?        00:00:00 /usr/libexec/tracker-miner-fs
+skaur        940       1  0 13:21 ?        00:00:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+skaur        944     924  0 13:21 tty2     00:00:00 /usr/lib/gdm3/gdm-x-session --run-script env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --systemd --session=ubuntu
+skaur        946     929  0 13:21 ?        00:00:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+skaur        949     944  1 13:21 tty2     00:00:23 /usr/lib/xorg/Xorg vt2 -displayfd 3 -auth /run/user/1000/gdm/Xauthority -background none -noreset -keeptty -verbose 3
+skaur        952     929  0 13:21 ?        00:00:00 /usr/libexec/gvfsd
+rtkit        955       1  0 13:21 ?        00:00:00 /usr/libexec/rtkit-daemon
+skaur        960     929  0 13:21 ?        00:00:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+skaur        963     929  0 13:21 ?        00:00:00 /usr/libexec/gvfs-udisks2-volume-monitor
+skaur        986     929  0 13:21 ?        00:00:00 /usr/libexec/gvfs-mtp-volume-monitor
+skaur        990     929  0 13:21 ?        00:00:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+skaur        994     929  0 13:21 ?        00:00:00 /usr/libexec/gvfs-goa-volume-monitor
+skaur        998     929  0 13:21 ?        00:00:00 /usr/libexec/goa-daemon
+skaur       1008     929  0 13:21 ?        00:00:00 /usr/libexec/gvfs-afc-volume-monitor
+skaur       1009     929  0 13:21 ?        00:00:00 /usr/libexec/goa-identity-service
+root        1017       1  0 13:21 ?        00:00:00 /usr/lib/upower/upowerd
+skaur       1040     944  0 13:21 tty2     00:00:00 /usr/libexec/gnome-session-binary --systemd --systemd --session=ubuntu
+skaur       1134       1  0 13:21 ?        00:00:00 /usr/bin/VBoxClient --clipboard
+skaur       1135    1134  0 13:21 ?        00:00:00 /usr/bin/VBoxClient --clipboard
+skaur       1146       1  0 13:21 ?        00:00:00 /usr/bin/VBoxClient --seamless
+skaur       1147    1146  0 13:21 ?        00:00:00 /usr/bin/VBoxClient --seamless
+skaur       1153       1  0 13:21 ?        00:00:00 /usr/bin/VBoxClient --draganddrop
+skaur       1154    1153  0 13:21 ?        00:00:04 /usr/bin/VBoxClient --draganddrop
+skaur       1161       1  0 13:21 ?        00:00:00 /usr/bin/VBoxClient --vmsvga
+skaur       1162    1161  0 13:21 ?        00:00:00 /usr/bin/VBoxClient --vmsvga
+skaur       1168    1040  0 13:21 ?        00:00:00 /usr/bin/ssh-agent /usr/bin/im-launch env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --systemd --session=ubuntu
+skaur       1187     929  0 13:21 ?        00:00:00 /usr/libexec/at-spi-bus-launcher
+skaur       1193    1187  0 13:21 ?        00:00:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+skaur       1197     929  0 13:21 ?        00:00:00 /usr/libexec/gnome-session-ctl --monitor
+skaur       1204     929  0 13:21 ?        00:00:00 /usr/libexec/gnome-session-binary --systemd-service --session=ubuntu
+skaur       1218     929  1 13:21 ?        00:00:35 /usr/bin/gnome-shell
+skaur       1237    1218  0 13:21 ?        00:00:00 ibus-daemon --panel disable --xim
+skaur       1241    1237  0 13:21 ?        00:00:00 /usr/libexec/ibus-memconf
+skaur       1242    1237  0 13:21 ?        00:00:00 /usr/libexec/ibus-extension-gtk3
+skaur       1246     929  0 13:21 ?        00:00:00 /usr/libexec/ibus-x11 --kill-daemon
+skaur       1249     929  0 13:21 ?        00:00:00 /usr/libexec/ibus-portal
+skaur       1258     929  0 13:21 ?        00:00:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+skaur       1262     929  0 13:21 ?        00:00:00 /usr/libexec/xdg-permission-store
+skaur       1267     929  0 13:21 ?        00:00:00 /usr/libexec/gnome-shell-calendar-server
+skaur       1273     929  0 13:21 ?        00:00:00 /usr/libexec/evolution-source-registry
+skaur       1283     929  0 13:21 ?        00:00:00 /usr/libexec/evolution-calendar-factory
+skaur       1291     929  0 13:21 ?        00:00:00 /usr/libexec/dconf-service
+skaur       1296     929  0 13:21 ?        00:00:00 /usr/libexec/evolution-addressbook-factory
+skaur       1324     952  0 13:21 ?        00:00:00 /usr/libexec/gvfsd-trash --spawner :1.3 /org/gtk/gvfs/exec_spaw/0
+skaur       1326     929  0 13:21 ?        00:00:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.Shell.Notifications
+skaur       1343     929  0 13:21 ?        00:00:00 /usr/libexec/gsd-a11y-settings
+skaur       1344     929  0 13:21 ?        00:00:00 /usr/libexec/gsd-color
+skaur       1345     929  0 13:21 ?        00:00:00 /usr/libexec/gsd-datetime
+skaur       1348     929  0 13:21 ?        00:00:00 /usr/libexec/gsd-housekeeping
+skaur       1349     929  0 13:21 ?        00:00:00 /usr/libexec/gsd-keyboard
+skaur       1350     929  0 13:21 ?        00:00:00 /usr/libexec/gsd-media-keys
+skaur       1357     929  0 13:21 ?        00:00:00 /usr/libexec/gsd-power
+skaur       1359     929  0 13:21 ?        00:00:00 /usr/libexec/gsd-print-notifications
+skaur       1362     929  0 13:21 ?        00:00:00 /usr/libexec/gsd-rfkill
+skaur       1363     929  0 13:21 ?        00:00:00 /usr/libexec/gsd-screensaver-proxy
+skaur       1367     929  0 13:21 ?        00:00:00 /usr/libexec/gsd-sharing
+skaur       1371     929  0 13:21 ?        00:00:00 /usr/libexec/gsd-smartcard
+skaur       1375     929  0 13:21 ?        00:00:00 /usr/libexec/gsd-sound
+skaur       1379     929  0 13:21 ?        00:00:00 /usr/libexec/gsd-usb-protection
+skaur       1381     929  0 13:21 ?        00:00:00 /usr/libexec/gsd-wacom
+skaur       1389     929  0 13:21 ?        00:00:00 /usr/libexec/gsd-wwan
+skaur       1390     929  0 13:21 ?        00:00:00 /usr/libexec/gsd-xsettings
+skaur       1427    1204  0 13:21 ?        00:00:00 /usr/libexec/evolution-data-server/evolution-alarm-notify
+skaur       1433    1204  0 13:21 ?        00:00:00 /usr/libexec/gsd-disk-utility-notify
+skaur       1441     929  0 13:21 ?        00:00:00 /usr/libexec/gsd-printer
+colord      1456       1  0 13:21 ?        00:00:00 /usr/libexec/colord
+skaur       1521    1237  0 13:21 ?        00:00:00 /usr/libexec/ibus-engine-simple
+skaur       1572     929  0 13:21 ?        00:00:10 /usr/libexec/gnome-terminal-server
+skaur       1574     929  0 13:21 ?        00:00:00 /usr/bin/gnome-calendar --gapplication-service
+skaur       1576     929  0 13:21 ?        00:00:00 /usr/bin/seahorse --gapplication-service
+skaur       1675    1572  0 13:21 pts/0    00:00:00 bash
+skaur       1701     929  0 13:22 ?        00:00:00 /usr/libexec/gvfsd-metadata
+skaur       1706    1204  0 13:22 ?        00:00:00 update-notifier
+skaur       3600     940  0 13:29 ?        00:00:00 /usr/bin/ssh-agent -D -a /run/user/1000/keyring/.ssh
+root        3614       2  0 13:32 ?        00:00:00 [kworker/u2:1-ext4-rsv-conversion]
+skaur       3631     929  0 13:34 ?        00:00:00 ssh-agent -s
+skaur       3636     929  0 13:36 ?        00:00:02 /usr/bin/nautilus --gapplication-service
+root        3653       2  0 13:37 ?        00:00:00 [kworker/0:1-events]
+skaur       4300     929 14 13:40 ?        00:02:09 /usr/lib/firefox/firefox -new-window
+skaur       4337    4300  0 13:40 ?        00:00:00 /usr/lib/firefox/firefox -contentproc -parentBuildID 20220818191623 -prefsLen 18002 -prefMapSize 223216 -appDir /usr/lib/firefox/browser 4300 true socket
+skaur       4350     929  0 13:40 ?        00:00:00 /usr/libexec/xdg-desktop-portal
+skaur       4354     929  0 13:40 ?        00:00:00 /usr/libexec/xdg-document-portal
+skaur       4363     929  0 13:40 ?        00:00:00 /usr/libexec/xdg-desktop-portal-gtk
+skaur       4419    4300  0 13:40 ?        00:00:00 /usr/lib/firefox/firefox -contentproc -childID 1 -isForBrowser -prefsLen 19911 -prefMapSize 223216 -jsInitLen 247228 -parentBuildID 20220818191623 -appDir /usr/lib/firefox/browser 4300 true tab
+skaur       4437    4300  0 13:40 ?        00:00:01 /usr/lib/firefox/firefox -contentproc -childID 2 -isForBrowser -prefsLen 20095 -prefMapSize 223216 -jsInitLen 247228 -parentBuildID 20220818191623 -appDir /usr/lib/firefox/browser 4300 true tab
+skaur       4526    4300  1 13:40 ?        00:00:12 /usr/lib/firefox/firefox -contentproc -childID 4 -isForBrowser -prefsLen 29474 -prefMapSize 223216 -jsInitLen 247228 -parentBuildID 20220818191623 -appDir /usr/lib/firefox/browser 4300 true tab
+skaur       4551    4300  0 13:40 ?        00:00:00 /usr/lib/firefox/firefox -contentproc -childID 6 -isForBrowser -prefsLen 29587 -prefMapSize 223216 -jsInitLen 247228 -parentBuildID 20220818191623 -appDir /usr/lib/firefox/browser 4300 true tab
+skaur       4582    4300  0 13:41 ?        00:00:00 /usr/lib/firefox/firefox -contentproc -childID 7 -isForBrowser -prefsLen 29921 -prefMapSize 223216 -jsInitLen 247228 -parentBuildID 20220818191623 -appDir /usr/lib/firefox/browser 4300 true tab
+skaur       4622    4300  0 13:41 ?        00:00:08 /usr/lib/firefox/firefox -contentproc -childID 8 -isForBrowser -prefsLen 30126 -prefMapSize 223216 -jsInitLen 247228 -parentBuildID 20220818191623 -appDir /usr/lib/firefox/browser 4300 true tab
+root        4699       2  0 13:42 ?        00:00:00 [kworker/0:0-inet_frag_wq]
+skaur       4723    4300  0 13:43 ?        00:00:00 /usr/lib/firefox/firefox -contentproc -childID 9 -isForBrowser -prefsLen 33373 -prefMapSize 223216 -jsInitLen 247228 -parentBuildID 20220818191623 -appDir /usr/lib/firefox/browser 4300 true tab
+skaur       4747    4300  0 13:43 ?        00:00:00 /usr/lib/firefox/firefox -contentproc -childID 10 -isForBrowser -prefsLen 33373 -prefMapSize 223216 -jsInitLen 247228 -parentBuildID 20220818191623 -appDir /usr/lib/firefox/browser 4300 true tab
+skaur       4817    4300  0 13:43 ?        00:00:00 /usr/lib/firefox/firefox -contentproc -parentBuildID 20220818191623 -prefsLen 33584 -prefMapSize 223216 -appDir /usr/lib/firefox/browser 4300 true rdd
+skaur       4829    4300  0 13:43 ?        00:00:00 /usr/lib/firefox/firefox -contentproc -childID 11 -isForBrowser -prefsLen 33584 -prefMapSize 223216 -jsInitLen 247228 -parentBuildID 20220818191623 -appDir /usr/lib/firefox/browser 4300 true tab
+skaur       4914     929  0 13:43 ?        00:00:00 /usr/libexec/tracker-store
+skaur       4928    4300  0 13:43 ?        00:00:00 /usr/lib/firefox/firefox -contentproc -parentBuildID 20220818191623 -sandboxingKind 1 -prefsLen 33584 -prefMapSize 223216 -appDir /usr/lib/firefox/browser 4300 true utility
+root        5251       2  0 13:51 ?        00:00:00 [kworker/u2:2-events_unbound]
+skaur       5929    1675  0 13:55 pts/0    00:00:00 ps -ef
