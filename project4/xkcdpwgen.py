@@ -1,5 +1,4 @@
-#!/usr/bin/env python
-
+#!/usr/bin/env python3
 import sys, random, getopt
 
 symbolsList = ["~","!","@","#","$","%","^","&","*",".",":",";"]
@@ -25,7 +24,6 @@ def buildPassword(wordsVal, capitalsVal, numbersVal, symbolsVal):
     random.shuffle(pwdList)
     pwd = ''.join(pwdList)
     return (pwd)   
-
 
 def getIntFromInput(input):
     try:

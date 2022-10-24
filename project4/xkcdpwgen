@@ -1,5 +1,5 @@
 #!/bin/bash
 
 chmod +x xkcdpwgen.py
-password=$(python xkcdpwgen.py "$@")
-echo $password
+password=$(python3 xkcdpwgen.py "$@")
+echo $password 
