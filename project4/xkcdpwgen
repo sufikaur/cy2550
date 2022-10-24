@@ -59,8 +59,4 @@ def generatePassword(argv):
                 "-s SYMBOLS, --symbols SYMBOLS\t\t insert SYMBOLS random symbols in the password(default=0)\n")
     return buildPassword(wordsVal, capitalsVal, numbersVal, symbolsVal)
 
-
-if __name__ == "__main__":
-    pwd =  generatePassword(sys.argv[1:])
-    print(pwd)
-
+generatePassword(sys.argv[1:])
