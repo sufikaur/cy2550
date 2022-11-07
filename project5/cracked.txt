@@ -7,6 +7,7 @@ makiomed:welcome
 dubyabot:hockey
 shortoeve:ranger
 fortuneud:spider
+liciolog:aa123456
 crayonfour:tigers
 aquaverit:1234
 bartercon:scooby
@@ -37,5 +38,3 @@ dunawitec:Delving2
 barrxhorr:Stupid4
 onev2:Abscesses7
 bigghappy:Fugitive4
-
-39 password hashes cracked, 11 left
