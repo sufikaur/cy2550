@@ -1,20 +1,21 @@
- Last Modified: on Nov 14 12:45:27 2022
+# Last Modified: on Nov 14 12:45:27 2022
 #include <tunables/global>
 
 /home/skaur/Documents/cy2550/project6/p2 flags=(audit) {
-#include <abstractions/base>  
-  /home/skaur/Documents/cy2550/project6/p2 mr,
-        /tmp/* wr,
-/home/skaur/.project2/config w,
-/var/log/syslog r,
-/etc/fstab r,
-/proc/version r,
-/proc/buddyinfo r,
-/etc/crontab r,
-/run/systemd/resolve/stub-resolv.conf r,
-/etc/passwd r,
-/etc/hosts r,
-/home/skaur/Documents/cy2550/project6/template r,
-/usr/lib/x86_64-linux-gnu/libpthread* r,
-network inet,
+
+        /home/skaur/Documents/cy2550/project6/p2 mr,
+        /tmp/project* rw,
+        /home/skaur/.project2/config w,
+        /var/log/syslog r,
+        /etc/fstab r,
+        /proc/version r,
+        /proc/buddyinfo r,
+        /etc/crontab r,
+        /run/systemd/resolve/stub-resolv.conf r,
+        /etc/passwd r,
+        /etc/hosts r,
+        /usr/lib/x86_64-linux-gnu/* mr,
+        /proc/stat r, /home/skaur/Documents/cy2550/project6/template r,
+        network inet stream,
 }
+
